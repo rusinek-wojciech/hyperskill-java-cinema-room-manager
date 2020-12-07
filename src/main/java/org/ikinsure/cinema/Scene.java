@@ -1,4 +1,4 @@
-package org.ikinsure.easy.cinema;
+package org.ikinsure.cinema;
 import java.util.stream.IntStream;
 
 public class Scene {

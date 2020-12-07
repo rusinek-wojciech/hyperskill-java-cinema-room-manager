@@ -1,4 +1,4 @@
-package org.ikinsure.easy.cinema;
+package org.ikinsure.cinema;
 
 public class Budget {
 

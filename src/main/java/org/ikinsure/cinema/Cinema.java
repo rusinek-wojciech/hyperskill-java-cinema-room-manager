@@ -1,4 +1,4 @@
-package org.ikinsure.easy.cinema;
+package org.ikinsure.cinema;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
